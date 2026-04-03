@@ -1,0 +1,20 @@
+{
+   "customers": [
+      {
+         "id": 1,
+         "name": "anjali",
+         "email": "re@gmail.com",
+         "address": "asd",
+         "contact": "0987654321",
+         "deleted": true
+      },
+      {
+         "id": 2,
+         "name": "anjali",
+         "email": "ert@gmail.com",
+         "address": "delhi",
+         "contact": "9807689012",
+         "deleted": false
+      }
+   ]
+}
