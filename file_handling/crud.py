@@ -306,7 +306,6 @@ def add_task():
 def show_tasks():
     cid = int(input("Enter customer ID: "))
 
-    # 🔍 check customer exist
     for c in customers:
         if c["id"] == cid and not c["deleted"]:
             break
